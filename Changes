@@ -1,0 +1,15 @@
+Changelog for App-cpantested
+
+0.001 2013-01-22T18:47:29
+ [Stanislaw Pusep <creaktive@gmail.com>]
+ - no Test::Script::Run dependency
+
+ - tests & refactor
+
+ - better description
+
+ - documentation
+
+ - INIT
+
+
