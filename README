@@ -2,7 +2,7 @@ NAME
     App::cpantested - delegate testing to the cloud
 
 VERSION
-    version 0.001
+    version 0.002
 
 SYNOPSIS
         cpan-outdated | cpan-tested | cpanm -n

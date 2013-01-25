@@ -1,6 +1,13 @@
 Changelog for App-cpantested
 
-0.001 2013-01-22T18:47:29
+0.002 2013-01-25T13:28:26
+ [Stanislaw Pusep <creaktive@gmail.com>]
+ - less weird check
+
+ - less harsh test
+
+
+v0.001 2013-01-22T18:46:36
  [Stanislaw Pusep <creaktive@gmail.com>]
  - no Test::Script::Run dependency
 

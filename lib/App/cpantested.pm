@@ -7,7 +7,7 @@ use strict;
 use utf8;
 use warnings qw(all);
 
-our $VERSION = '0.001'; # VERSION
+our $VERSION = '0.002'; # VERSION
 
 
 1;
@@ -24,7 +24,7 @@ App::cpantested - delegate testing to the cloud
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 

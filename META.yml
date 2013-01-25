@@ -39,4 +39,4 @@ resources:
   bugtracker: https://github.com/creaktive/App-cpantested/issues
   homepage: https://github.com/creaktive/App-cpantested
   repository: git://github.com/creaktive/App-cpantested.git
-version: 0.001
+version: 0.002
